@@ -1,0 +1,151 @@
+[
+
+    {
+        "filename": "index.md",
+        "attr": {
+            "data-background": "img/covert.png",
+            "class": "home",
+            "data-state": "homepage"
+        }
+    },
+    {
+        "filename": "outline.md",
+        "attr": {}
+    },
+    [
+    	{
+        	"filename": "introduction.md",
+        	"attr": {
+        		"data-state": "big-title",
+            	"data-transition":"zoom"
+            	}
+        },
+        {
+        	"filename": "introduction_contents.md",
+        	"attr": {
+	            "data-separator": "^\n\n\n",
+	            "data-vertical": "^\n\n"
+	        }
+        }
+    ],
+    [
+	    {
+	        "filename": "patching_a_kernel.md",
+	        "attr": {
+	            "data-state": "big-title",
+	            "data-transition":"zoom"
+	        }
+	    },
+	    {
+	        "filename": "patching_a_kernel_contents.md",
+	        "attr": {
+	            "data-separator": "^\n\n\n",
+	            "data-vertical": "^\n\n"
+	        }
+	    }
+    ],
+
+
+    [
+	    {
+	        "filename": "configuring_kernel.md",
+	        "attr": {
+	            "data-state": "big-title",
+	            "data-transition":"zoom"
+	        }
+	    },
+	    {
+	        "filename": "configuring_kernel_contents.md",
+	        "attr": {
+	            "data-separator": "^\n\n\n",
+	            "data-vertical": "^\n\n"
+	        }
+	    }
+    ],
+
+    [
+	    {
+	        "filename": "compiling_a_kernel.md",
+	        "attr": {
+	            "data-state": "big-title",
+	            "data-transition":"zoom"
+	        }
+	    },
+	    {
+	        "filename": "compiling_a_kernel_contents.md",
+	        "attr": {
+	            "data-separator": "^\n\n\n",
+	            "data-vertical": "^\n\n"
+	        }
+	    }
+
+    ],
+
+
+    [
+      {
+          "filename": "installing_kernel.md",
+          "attr": {
+              "data-state": "big-title",
+              "data-transition":"zoom"
+          }
+      },
+      {
+          "filename": "installing_kernel_contents.md",
+          "attr": {
+              "data-separator": "^\n\n\n",
+              "data-vertical": "^\n\n"
+          }
+      }
+
+    ],
+
+	[
+	    {
+	        "filename": "initial_ram_disk.md",
+	        "attr": {
+	            "data-state": "big-title",
+	            "data-transition":"zoom"
+	        }
+	    },
+	    {
+	        "filename": "initial_ram_disk_contents.md",
+	        "attr": {
+	            "data-separator": "^\n\n\n",
+	            "data-vertical": "^\n\n"
+	        }
+	    }
+
+    ],
+
+
+  [
+      {
+          "filename": "grub_install.md",
+          "attr": {
+              "data-state": "big-title",
+              "data-transition":"zoom"
+          }
+      },
+      {
+          "filename": "grub_install_contents.md",
+          "attr": {
+              "data-separator": "^\n\n\n",
+              "data-vertical": "^\n\n"
+          }
+      }
+
+    ],
+
+
+    {
+        "filename": "end.md",
+        "attr": {
+            "data-state":"thanks",
+            "class":"alternatelight",
+           "data-separator": "^\n\n\n",
+            "data-vertical": "^\n\n"
+
+        }
+    }
+]
